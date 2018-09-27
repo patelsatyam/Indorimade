@@ -4,24 +4,26 @@
 }
 .Header-main{
     display: flex;
+    justify-content: space-between;
 }
 
 
 .Header-img{
     width: 70%;
     padding: 4%;
-    margin-left: 10%;
+    margin-left: 5px;
 }
 .Header-ul{
     list-style-type: none;
-    margin-left: 50%;
+    /* margin-left: 50%; */
+    margin-right: 25px;
 }
 .Header-li{
-    float: left;
     margin-left: 5px;
     margin-right: 5px;
     border: 2px solid black;
     padding: 5px;
+    display: -webkit-inline-box;
 }
 a{
     color: black;

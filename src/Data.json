@@ -1,0 +1,48 @@
+[
+    {
+        "name": "wittyfeed",
+        "link": "https://www.wittyfeed.tv/", 
+        "id" : 1,
+        "position": {
+            "lat": 22.7229633,
+            "lng": 75.88708480000003
+        }
+    },
+    {
+        "name": "codeIndore()",
+        "link": "https://codeindore.github.io/",
+        "id" : 2,
+        "position": {
+            "lat": 22.751403,
+            "lng": 75.88929699999994
+        }
+    },
+    {
+        "name": "Incuspaze",
+        "link": "http://www.incuspaze.com",
+        
+        "id" : 3,
+        "position": {
+            "lat": 22.747048,
+            "lng": 75.89384599999994
+        }
+    },
+    {
+        "name": "Adited Coworking",
+        "link": "http://www.adited.com",
+        "id" : 4,
+        "position": {
+            "lat": 22.7442308,
+            "lng": 75.89184079999995
+        }
+    },
+    {
+        "name": "Twist Mobile",
+        "link": "http://www.twistmobile.in",
+        "id" : 5,
+        "position": {
+            "lat": 22.7401999,
+            "lng": 75.89177432322432
+        }
+    }
+]

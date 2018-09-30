@@ -44,5 +44,15 @@
             "lat": 22.7401999,
             "lng": 75.89177432322432
         }
+    },
+    {
+        "name": "Walkover",
+        "link": "http://www.walkover.in",
+        "id" : 6,
+        "position": {
+            "lat": 22.7251384,
+            "lng": 75.89044260000003
+        }
     }
 ]
+

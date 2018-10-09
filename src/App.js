@@ -80,6 +80,6 @@ class App extends Component {
     }
 }
 export default GoogleApiWrapper({
-    apiKey: "AIzaSyCoOvuHz3t_CSzaDKrz-RN4SDz_-aPWzQU&callback=initMap",
+    apiKey: "GOOGLE_MAP_API_KEY",
     v: "3"
 })(App);
